@@ -12,6 +12,8 @@
 - 附表九 資通系統防護需求分級原則
 - 附表十 資通系統防護基準
 
+- A級之公務機關應辦事項 級之公務機關應辦事項 級之公務機關應辦事項 級
+
 ### [共通規範](https://www.nccst.nat.gov.tw/CommonSpecification?lang=zh)
 
 ### [資安服務](https://www.nccst.nat.gov.tw/SecurityRFP?lang=zh)
