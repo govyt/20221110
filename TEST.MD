@@ -1,4 +1,4 @@
-## [SMART Goals and Objectives for Internal Audits 內部稽核的 SMART 目標和目的](https://isoupdate.com/general/smart-goals-and-objectives-for-internal-audits/)
+## [SMART Goals and Objectives for Internal Audits 內部稽核的目的與 SMART 目標](https://isoupdate.com/general/smart-goals-and-objectives-for-internal-audits/)
 ```
 What is a SMART Goal?
 設定戰略和可實現的目標是發展業務的重要組成部分，因為它們為您提供了一個可以努力實現的目標。
