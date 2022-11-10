@@ -1,6 +1,6 @@
 # 20221110
 # 推薦書籍
-- [稽核軌跡：稽核的35堂課](https://www.sanmin.com.tw/Product/index/005076150)
+- [稽核軌跡：稽核的35堂課  國際內部稽核協會總裁 Richard F. Chambers](https://www.sanmin.com.tw/Product/index/005076150)
 
 ### [	資通安全責任等級分級辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030304)
 - 附表一 資通安全責任等級A級之公務機關應辦事項
