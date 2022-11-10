@@ -51,13 +51,41 @@
 ### 管理面稽核(6)資通安全維護計畫與實施情形之持續精進及績效管理機制
 
 # 技術面
-- 資通安全責任等級分級辦法 附表1-8 各應辦事項
-- 資通安全責任等級分級辦法 附表九 資通系統防護需求分級原則
-- 資通安全責任等級分級辦法 附表十 資通系統防護基準
-- [NIST SP 800-53B :Control Baselines for Information Systems and Organizations(2020)](https://csrc.nist.gov/publications/detail/sp/800-53b/final)
+- 資通安全責任等級分級辦法 
+  - 附表1-8 各應辦事項
+  - 附表九 資通系統防護`需求分級原則`
+  - 附表十 資通系統防護`基準`
+- 國際資安管理之`安全控制措施(Controls|Security Controls)`架構
+  - ISO 27001/27002
+  - NIST CSF 網路安全框架(Cybersecurity Framework, CSF)
+  - [NISTSP800-53r5 Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+  - [NIST SP 800-53B :Control Baselines for Information Systems and Organizations(2020)](https://csrc.nist.gov/publications/detail/sp/800-53b/final)
 - 共通規範:安全控制措施參考指引v4.0_1110131
-- 共通規範:資通系統防護基準驗證實務(V1.1)_1110928
-- 構面
+  - 本文:安全控制措施參考指引v4.0_1110131.pdf  附件4-23
+  - 安全控制措施分類 參看附件4-23
+    - 4.1 存取控制(Access Control)
+    - 4.2 認知與訓練(Awareness and Training) 
+    - 4.3 稽核與可歸責性(Audit and Accountability)
+    - 4.4 評鑑、授權及監控（Assessment, Authorization and Monitoring）
+    - 4.5 組態管理(Configuration Management) 
+    - 4.6 營運持續規劃(Contingency Planning)
+    - 4.7 識別與鑑別(Identification and Authentication) 
+    - 4.8 事件回應(Incident Response) 
+    - 4.9 維護(Maintenance)
+    - 4.10 媒體保護(Media Protection)
+    - 4.11 實體與環境保護(Physical and Environmental Protection) 
+    - 4.12 安全規劃(Planning)
+    - 4.13 人員安全(Personnel Security) 
+    - 4.14 個人可識別資訊處理與透明度(Personally Identifiable Information Processing and Transparency) 
+    - 4.15 風險評鑑(Risk Assessment) 
+    - 4.16 系統與服務獲得(System and Services Acquisition)
+    - 4.17 系統與通訊保護(System and Communications Protection) 
+    - 4.18 系統與資訊完整性(System and Information Integrity) 
+    - 4.19 供應鏈風險管理(Supply Chain Risk Management) 
+    - 4.20 專案管理(Program Management) 
+- 共通規範:資通系統防護`基準`驗證實務(V1.1)_1110928 
+  - 附件1_資通系統防護基準檢核表.docx 
+- 構面(普|中|高)
   - 1.存取控制
     - 帳號管理
     - 最小權限
