@@ -32,7 +32,7 @@ similarly, if a goal is too easy it’s prone to fall into a procrastination pil
 Because of this, a smart goal must be both challenging yet achievable.
 
 Realistic: Goals should be realistic within the set time frame.
-可實現的：目標應該在設定的時間範圍內是可實現的。
+真實的：目標應該在設定的時間範圍內是可實現的。
 You need to give yourself enough resources to ensure the goal is achievable. 
 Ask yourself if you’re able to commit to the goal and if it’s one that has previously been accomplished within similar parameters.
 
