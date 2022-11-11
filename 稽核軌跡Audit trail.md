@@ -1,4 +1,5 @@
-## 稽核軌跡（Audit trail或Audit log） [中文版WIKI說明Audit trail](https://zh.m.wikipedia.org/zh-hant/%E6%95%B8%E6%93%9A%E8%BB%8C%E8%B7%A1) [英文版WIKI說明Audit trail](https://en.wikipedia.org/wiki/Audit_trail)
+## 稽核軌跡（Audit trail或Audit log）
+- [中文版WIKI說明Audit trail](https://zh.m.wikipedia.org/zh-hant/%E6%95%B8%E6%93%9A%E8%BB%8C%E8%B7%A1) [英文版WIKI說明Audit trail](https://en.wikipedia.org/wiki/Audit_trail)
 - 有許多名稱: 稽核追蹤、稽核跟蹤、稽核日誌、檔案日誌或軌跡紀錄等名稱
 - Audit trail是一種作為資訊系統稽核手段的與`安全`相關的`時間順序記錄`、記錄集合 和/或 記錄的目的地和來源
 - An audit trail is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, event, or device
